@@ -1,6 +1,7 @@
 ## cmlabs Backend Internship Pre-Assessment Test (BE-PT-02-1)
 
 #### Full Name          : Arief Rahman
+#### Email              : ariefrahman01@mail.ugm.ac.id
 #### Position Applied   : Back-End Developer Internship
 #### Task               : FizzBuzz Problem
 #### Language Choosed   : Go
